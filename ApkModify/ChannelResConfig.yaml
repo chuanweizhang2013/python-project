@@ -1,0 +1,14 @@
+keystore:
+  punchbox.keystore:
+    key.store.password: w3297825w
+    key.alias.password: w3297825w
+    key.alias: android123.keystore
+
+"999999":
+  Resource_android:
+    folder1: "../../../Resource/Resource-android-png8 1"
+    folder2: "../../Resource_android 0"
+  Resource_java:
+    folder1: "../../../android/res_common"
+    folder2: "../../../android/999999_gles1.0/res"
+  OutPut_name: "999999_gles1.0"
