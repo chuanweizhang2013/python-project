@@ -1,4 +1,3 @@
 python-project
-==============
 YYYYYYYYYYY
 myproject
